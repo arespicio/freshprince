@@ -1,0 +1,18 @@
+
+body{
+	background-color: #dfdfdf;
+}
+
+h1{
+	color: red;
+	text-align: center;
+}
+
+p{
+	color: #4f656f;
+	margin: 0 40px 0 40px; 
+}
+
+ul li{
+	color: #4f656f;
+}
